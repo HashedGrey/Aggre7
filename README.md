@@ -6,9 +6,11 @@ You can click the Preview link to take a look at your changes.
  <br/>
 👋🏼 Hi there!
 
-- ⚡ I'm a Distributed Systems Engineer mostly  writing SpringBoot, Postgres+Cassandra, Kafka and the rest mentioned below. I'm also a part time mentor as I unblock, review and help ship code that are Results and Product Oriented.
-    
-- 🔭  Reality is Just a Wrapper For Information Distribution on our Kardashev Gradient Ascent.
+- ⚡ I'm a Distributed Systems Engineer mostly  writing SpringBoot, Postgres+Cassandra, Kafka, Redis, Embabel and the rest mentioned below. I'm also a part time mentor as I unblock, review and help ship code that are Results and Product Oriented.
+
+- ⚡  The odds of AI shareholders locking-in to `low-latency llm-spotify intergration` hype to come up with Bumblebee-like Speech Synthesis` for automobiles will always be non-zero. lol
+- ⚡The odds of neuralink lowering the signal-to-noise ratio of recorded neural activity in animals, allowing more accurate decoding and transmission of intent for effective communication(lossy human-level speech) is higher than the aforementioned odds. lol
+- 🔭  After all, Reality is Just a Wrapper For Information Distribution/, Shannon Entropy if you may, on our Kardashev Gradient Ascent.
 
 <p>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" height="25px"/>
